@@ -1,0 +1,50 @@
+[
+  {
+    "drugName": "Asprin",
+    "quantity": "2",
+    "reminderDate": "2024-11-06",
+    "reminderTime": "21:32"
+  },
+  {
+    "drugName": "Paracetamol",
+    "quantity": "1",
+    "reminderDate": "2024-11-06",
+    "reminderTime": "21:35"
+  },
+  {
+    "drugName": "Cipla",
+    "quantity": "1",
+    "reminderDate": "2024-11-06",
+    "reminderTime": "21:40"
+  },
+  {
+    "drugName": "dolo 650",
+    "quantity": "1",
+    "reminderDate": "2024-11-06",
+    "reminderTime": "21:45"
+  },
+  {
+    "drugName": "para",
+    "quantity": "2",
+    "reminderDate": "2024-04-05",
+    "reminderTime": "15:52"
+  },
+  {
+    "drugName": "abc",
+    "quantity": "10",
+    "reminderDate": "2024-11-12",
+    "reminderTime": "20:21"
+  },
+  {
+    "drugName": "abc",
+    "quantity": "10",
+    "reminderDate": "2024-11-12",
+    "reminderTime": "20:21"
+  },
+  {
+    "drugName": "abc",
+    "quantity": "10",
+    "reminderDate": "2024-11-12",
+    "reminderTime": "20:21"
+  }
+]
